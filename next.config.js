@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  /* config options here */
+  // opsi konfigurasi Anda di sini
 };
 
 module.exports = nextConfig;
